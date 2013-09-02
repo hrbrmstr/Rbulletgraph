@@ -3,6 +3,8 @@ Rbulletgraph
 
 Standalone (non-package) example of how to make bullet graphs (http://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf) in R
 
+You can learn more about using bullet graphs in your IT & information security dashboards by grabbing our (mine & @jayjacobs') book: http://amzn.to/sudabook
+
 Provided you have a data frame with the following columns:
 
     measure|high|mean|low|target|value
