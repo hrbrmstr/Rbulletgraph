@@ -10,7 +10,7 @@ Provided you have a data frame with the following columns:
 the bullet.graph() function will make one more (depending on the number of rows) bullet graphs based on the scale of 
 the max value of "high".
 
-If youre data set doesn't "play nice" in that range, you'll either need to make multiple bullet graphs 
+If your data set doesn't "play nice" in that range, you'll either need to make multiple bullet graphs 
 (which should be able to be aligned nicely with a grid since the functions returns a ggplot object) or normalize the data
 (i.e. convert to percentages).
 
