@@ -1,3 +1,9 @@
+# 
+# MIT License
+# 
+# Bob Rudis (@hrbrmstr) bob@rudis.net
+#
+
 library(ggplot2)
 
 # make a bullet graph (retuns a ggplot2 object)
