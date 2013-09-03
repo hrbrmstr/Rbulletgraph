@@ -1,11 +1,12 @@
 # 
 # MIT License
 # 
-# Bob Rudis (@hrbrmstr) bob@rudis.net
+# Bob Rudis (@hrbrmstr) bob@rudis.net | http://rud.is/b | http://amzn.to/sudabook
 #
 
 library(ggplot2)
 
+#
 # make a bullet graph (retuns a ggplot2 object)
 #
 # expects a data frame with columns: measure|high|mean|low|target|value 
